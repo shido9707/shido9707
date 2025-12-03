@@ -1,77 +1,84 @@
-# Hi, I'm Shido 👋  
-Aspiring Data Scientist | Future MEXT Scholarship Applicant | Student (Class 10)
-
-I'm currently building the foundations of programming and problem-solving to prepare for a future in **Data Science, AI, and Japanese university studies**.  
-I believe in learning step-by-step, staying consistent, and creating projects that reflect growth.
-
----
-
-## 🚀 What I'm Currently Doing
-- 📘 Starting **Python basics** from scratch  
-- 🔢 Improving **Maths fundamentals** (algebra, statistics, functions)  
-- 🌏 Preparing for my long-term goal: **Study in Japan (MEXT Undergraduate)**  
-- 🧠 Slowly building logic through small coding exercises  
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6A5BE2&center=true&vCenter=true&width=600&lines=Hi+I'm+Shido+%F0%9F%91%8B;Aspiring+Data+Scientist;Future+MEXT+Scholarship+Applicant;Learning+Python+from+Scratch" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠 Skills I'm Currently Learning
-> *(Beginner level — but growing every day!)*
+## 🌸 About Me
+I'm **Shido**, a **Class 10 student** building my foundation in programming and aiming to pursue **Data Science / Computer Science in Japan** under the **MEXT Undergraduate Scholarship**.
 
-- **Python (Basics → Intermediate soon)**
-- **Git & GitHub**
-- **Problem Solving**
-- **Logical Thinking**
-- **Basic Statistics**
-
----
-
-## 📚 Skills I Will Learn in the Coming Years
-> *(My planned learning roadmap)*
-
-- Data Analysis (Pandas, NumPy)  
-- Machine Learning  
-- Data Visualization  
-- SQL  
-- Deep Learning  
-- Research & Academic Writing  
-- Japanese Language (JLPT N5 → N3)
+I'm currently focused on:
+- 📘 Learning **Python basics**
+- 🔢 Strengthening **math fundamentals**
+- 🌏 Understanding **Japan’s education system**
+- 🧠 Improving logic & problem solving
 
 ---
 
-## 📊 GitHub Stats  
-*(These will grow as I start making projects)*
-
-![Shido's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shido9707&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shido9707&layout=compact&theme=tokyonight)
-
----
-
-## 🗂 Future Projects I Plan to Build
-> *(Will be added as I start learning)*
-
-- 🔹 Python basic programs (calculators, converters, games)  
-- 🔹 Data analysis mini-projects  
-- 🔹 Small ML models once I reach Class 11  
-- 🔹 Japanese learning tracker app  
-- 🔹 Study Plan automation tools  
-- 🔹 A personal website portfolio  
+## 🛠️ Skills (Learning Now)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-Basics-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## 🎯 Long-Term Goals
-- Earn the **MEXT undergraduate scholarship**  
-- Study **Data Science / Computer Science in Japan**  
-- Build a strong portfolio with real projects  
-- Contribute to open-source and research  
-- Become a Data Scientist specializing in AI  
+## 🎯 Skills I Will Learn (Future Roadmap)
+<p align="left">
+  <img src="https://img.shields.io/badge/Data%20Analysis-Pandas%2C%20NumPy-150458?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Coming%20Soon-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-Later%20Stage-673AB7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-To%20Learn%20Soon-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Japanese%20Language-JLPT%20N5%20→%20N3-ff66cc?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shido9707&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shido9707&layout=compact&theme=tokyonight" height="160px"/>
+</p>
+
+---
+
+## 🗂️ Future Projects
+Here are the projects I plan to build as I grow:
+
+- 🟦 **Python Basics Projects**  
+  (calculator, converters, mini-games)
+
+- 🟩 **Data Analysis Projects**  
+  simple datasets → visualizations
+
+- 🟪 **ML Mini Models**  
+  (once I reach Class 11)
+
+- 🟥 **Japanese-learning Tracker App**
+
+- 🟨 **Study Planner Automation**
+
+- 🟧 **Personal Portfolio Website**
+
+---
+
+## 🎓 Long-Term Vision
+- Win the **MEXT undergraduate scholarship (Japan)**  
+- Study **Computer Science / Data Science**  
+- Build impactful open-source projects  
+- Research in **AI & machine learning**  
+- Become a skilled developer with an international mindset  
+
+---
+
+## 📫 Contact
 - GitHub: **[@shido9707](https://github.com/shido9707)**  
-- (More links will be added as I grow)
+- More links will be added as I grow 🚀  
 
 ---
 
-### 🌱 *“I’m not trying to be perfect today — just better than yesterday.”*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF8BA0&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%9C%A8;I'm+just+getting+started%2C+but+I'll+grow+every+day.">
+</p>
