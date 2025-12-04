@@ -1,92 +1,73 @@
-<!-- ====================================== -->
-<!--        DARK THEME ANIMATED HEADER      -->
-<!-- ====================================== -->
-<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="100%" alt="animated cyber banner">
-</p>
-
-<h1 align="center" style="color:#FFFFFF;">🌙 Itsuka Shido</h1>
+<h1 align="center">🌙 Itsuka Shido</h1>
+<p align="center"><em>Aspiring Data Scientist • Python Beginner • MEXT Scholarship Candidate</em></p>
 
 <p align="center">
-  <em style="color:#BBBBBB;">Aspiring Data Scientist • Python Learner • MEXT Scholarship Candidate</em>
-</p>
 
-<!-- Badges -->
-<p align="center">
-  <!-- Shields dark theme badges -->
-  <img src="https://img.shields.io/badge/Python-beginner-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-active-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MEXT%20Aspirant-2025-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Japanese-Learner-DC143C?style=for-the-badge&logo=google-translate&logoColor=white" />
-</p>
+<!-- Identity & Education -->
+<img src="https://img.shields.io/badge/Student-Class%2010-1E1E1E?style=for-the-badge&labelColor=000000">
+<img src="https://img.shields.io/badge/MEXT-Aspirant-4B0082?style=for-the-badge&labelColor=000000">
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://i.gifer.com/ZZ5H.gif" width="60%" alt="divider line">
+<!-- Tech -->
+<img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000">
+<img src="https://img.shields.io/badge/GitHub-Learning-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000">
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Japanese-Learner-BC002D?style=for-the-badge&labelColor=000000">
+
 </p>
 
 ---
 
-## 🌑 About Me  
-- 🇮🇳 Indian high school student  
-- 🎓 Preparing for **MEXT Undergraduate Scholarship**  
-- 🐍 Learning **Python** with freeCodeCamp / SoloLearn  
-- 📈 Interested in **Data Science & AI**  
-- 🇯🇵 Motivated to study & live in Japan  
-- 🌙 Love minimal + dark aesthetic designs  
+## 🖤 About Me  
+- 🎓 High school student preparing for **MEXT Undergraduate Scholarship**  
+- 🐍 Starting my programming journey with **Python**  
+- 📊 Interested in **Data Science & AI**  
+- 🇯🇵 Inspired to study in Japan  
+- 🧠 Love minimal, clean, dark aesthetics  
 
 ---
 
-## ⚙️ Skills (Growing)
+## ⚙️ Skills (Growing Step-by-Step)
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-30%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Science-15%25-00ADB5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-learning-F1502F?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Japanese-N5%20Level-BC002D?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Python-30%25-3776AB?style=flat-square&labelColor=000000">
+<img src="https://img.shields.io/badge/Logic%20Building-20%25-444444?style=flat-square&labelColor=000000">
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-10%25-F1502F?style=flat-square&labelColor=000000">
+<img src="https://img.shields.io/badge/Japanese-N5%20Level-BC002D?style=flat-square&labelColor=000000">
+
 </p>
 
 ---
 
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://i.gifer.com/3V3.gif" width="60%" alt="skills banner">
-</p>
-
-## 🧠 Currently Learning  
-- Python basics  
-- Creating small GitHub projects  
-- Data structures & logic  
+## 📚 Currently Learning  
+- Python basics (variables, loops, functions)  
+- Writing small beginner projects  
+- Git + GitHub workflow  
 - Japanese vocabulary & grammar  
 
 ---
 
-<!-- Section Break -->
-<p align="center">
-  <img src="https://i.gifer.com/3B3.gif" width="50%" alt="section break">
-</p>
+## 🚀 Future Projects (Planned)
+- 🧮 Basic calculator  
+- 📊 Simple data analyzer  
+- 🌤 Weather API app  
+- 📝 Japanese vocabulary tracker  
+- 🔍 Mini Machine Learning experiments (later in Class 11–12)  
 
-## 🚀 Upcoming Projects  
-> Once you begin writing Python scripts, I can help you convert them into clean GitHub-ready projects.
+---
 
-- Basic calculator  
-- Simple data analyzer  
-- Weather app (API)  
-- Japanese vocabulary tracker  
+## 📍 Goals  
+- Build a strong foundation in **math + coding** for Data Science  
+- Create simple but clean beginner-friendly projects on GitHub  
+- Strengthen my academic profile for **MEXT**  
+- Learn Japanese to a comfortable level  
 
 ---
 
 ## 📫 Contact  
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-YourUsername-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-shido9707-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000">
 </p>
 
----
-
-<!-- Footer GIF -->
-<p align="center">
-  <img src="https://i.gifer.com/4xHu.gif" width="100%" alt="footer animation">
-</p>
-
-<p align="center" style="color:#888888;">
-  ✨ *Thanks for visiting my dark-themed profile!* ✨  
-</p>
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
