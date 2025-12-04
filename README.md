@@ -1,76 +1,97 @@
-==============================================================
-                      I T S U K A   S H I D O
-==============================================================
-                       Aspiring Data Scientist
-                    Future MEXT 2028 Applicant
-==============================================================
+<p align="center">
+  <img src="https://i.ibb.co/sb9VNxg/cyber-banner-1.png" width="100%" />
+</p>
 
-# 👋 Hi, I'm Itsuka
+# 👋 Hi, I'm **Itsuka Shido**
 
-I’m a Class 10 student beginning my journey into programming and data science.  
-I aim to build strong fundamentals step by step and prepare for the **MEXT 2028 Scholarship** in Japan.
+Aspiring **Data Scientist** | Future **MEXT 2028 Scholar Applicant**  
+Class 10 student building strong fundamentals step by step.
 
-==============================================================
-                           ABOUT ME
-==============================================================
+---
 
+<p align="center">
+  <img src="https://i.ibb.co/0qf4TGy/cyber-aboutme.png" width="70%" />
+</p>
+
+### 🌟 About Me
 - 🎓 Class 10 student  
-- 🐍 Beginning Python basics  
-- 🧠 Interested in Data Science & Machine Learning  
-- 🇯🇵 Preparing early for MEXT  
-- 📈 Focused on consistent growth  
-- 🧩 Learning through small projects  
+- 🐍 Starting Python basics  
+- 💡 Interested in Data Science, ML & analytics  
+- 🇯🇵 Preparing for the MEXT Undergraduate Scholarship  
+- 📈 Strong focus on discipline and improvement  
+- 🧠 Building my skills early through projects & learning
 
-==============================================================
-                       CURRENTLY LEARNING
-==============================================================
+---
 
+<p align="center">
+  <img src="https://i.ibb.co/HnZtVT0/cyber-learning.png" width="70%" />
+</p>
+
+### 📘 Currently Learning
 - Python fundamentals  
 - Git & GitHub  
-- Logical and mathematical basics  
+- Basic mathematics for programming  
+- Logical reasoning  
 
-==============================================================
-                       BEGINNER SKILLSET
-==============================================================
+---
 
+<p align="center">
+  <img src="https://i.ibb.co/xJbtpwg/cyber-skills.png" width="70%" />
+</p>
+
+### 🛠 Beginner Skillset
 - Basic Python  
-- Using Git & GitHub  
+- Version control (Git + GitHub)  
 - Problem-solving mindset  
-- Understanding fundamentals clearly  
+- Fundamentals-first learning approach  
 
-==============================================================
-                    SKILLS I WILL LEARN NEXT
-==============================================================
+---
 
+<p align="center">
+  <img src="https://i.ibb.co/Dp0K8mz/cyber-futureskills.png" width="70%" />
+</p>
+
+### 🔮 Skills I Will Learn Next
 - Data Analysis (Pandas, NumPy)  
 - Data Visualization (Matplotlib)  
-- Machine Learning (scikit-learn)  
+- Machine Learning Basics  
 - SQL  
 - Japanese (JLPT N5 → N3)  
 
-==============================================================
-                         FUTURE PROJECTS
-==============================================================
+---
 
-- Small Python applications  
-- Beginner data analysis notebooks  
-- Mini ML models  
-- Study planner tools  
+<p align="center">
+  <img src="https://i.ibb.co/jZ1Fx2J/cyber-projects.png" width="70%" />
+</p>
+
+### 🚧 Future Projects
+- Python mini tools (calculator, timer, converters)  
+- Beginner-level data analysis notebooks  
+- Small ML models  
+- Study planner app  
+- Japanese vocabulary tracker  
 - Personal portfolio website  
 
-==============================================================
-                        LONG-TERM VISION
-==============================================================
+---
 
-To improve consistently, build real-world projects,  
-and prepare a strong academic & technical profile for university admissions  
-— especially the MEXT 2028 scholarship.
+<p align="center">
+  <img src="https://i.ibb.co/k1ZyqsQ/cyber-vision.png" width="70%" />
+</p>
 
-==============================================================
-                            CONTACT
-==============================================================
+### 🎯 Long-Term Vision
+To become a strong developer with a clean academic + project profile  
+and prepare confidently for the **MEXT 2028 Scholarship**.
 
+---
+
+<p align="center">
+  <img src="https://i.ibb.co/VJ5b3z3/cyber-contact.png" width="70%" />
+</p>
+
+### 📬 Contact
 - GitHub: **shido9707**  
-- Email: **shido9707@gmail.com**  
+- Email: **shido9707@gmail.com**
 
-==============================================================
+<p align="center">
+  <img src="https://i.ibb.co/sb9VNxg/cyber-banner-1.png" width="100%" />
+</p>
